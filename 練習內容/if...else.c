@@ -5,7 +5,7 @@
 int main(){
   char pw[8];
   printf("請輸入密碼");
-  scanf("%s\n",pw);
+  scanf("%s",pw);
   printf("輸入的密碼為%s\n",pw);
      if(strcmp(pw,"5875487")==0)
   	   printf("\n輸入正確\n\n");
@@ -15,8 +15,8 @@ int main(){
 	   
    
 system("PAUSE");
-return 0 ;	
+return 0 ;
+}
 	
 	
 	
-} 
