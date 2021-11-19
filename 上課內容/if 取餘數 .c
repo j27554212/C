@@ -6,7 +6,7 @@ int main() {
 	
 int num ;
 
-printf("input a number");
+printf("input a number\n");
 scanf("%d",&num);
 
 if((num!=0)&&!(24%num))
