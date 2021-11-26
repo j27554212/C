@@ -1,3 +1,5 @@
+
+//21~36 <=> 38~48
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -32,7 +34,18 @@ int main(){
 		   printf("score 0 to  59. \n");
 		   break; 
 	   } 
-	
+	  
+	        if(grade == 'a'){
+	   	   printf("score 90 to  100. \n");
+	   	}else if (grade ==  'b'){
+	   	   printf("score 80 to  90. \n");
+	  	}else if (grade ==  'c'){
+	  	   printf("score 70 to  80. \n");
+                }else if (grade ==  'd'){ 
+		   printf("score 60 to  70. \n");
+		}else if (grade ==  'e'){
+		   printf("score 0 to  59. \n");
+		}
 	
 	
 	
