@@ -20,19 +20,19 @@ int main(){
 	   	
 	   	case 'a' :
 		   printf("score 90 to  100. \n");
-		   //break; 
+		   break; 
 	  	case 'b' :
 		   printf("score 80 to  89. \n");
-		   //break; 
+		   break; 
   	   	case 'c' :
 		   printf("score 70 to  79. \n");
-		   //break; 
+		   break; 
 	   	case 'd' :
 		   printf("score 60 to  69. \n");
-		   //break; 
+		   break; 
 	   	case 'e' :
 		   printf("score 0 to  59. \n");
-		   //break; 
+		   break; 
 	   } 
 	   
 	         if(grade == 'a'){
