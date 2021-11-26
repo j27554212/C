@@ -33,6 +33,7 @@ int main(){
 	   	case 'e' :
 		   printf("score 0 to  59. \n");
 		   break; 
+		default:printf("wrong grade ! \n");
 	   } 
 	   
 	         if(grade == 'a'){
