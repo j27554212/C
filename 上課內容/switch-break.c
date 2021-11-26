@@ -36,7 +36,7 @@ int main(){
 		default:printf("wrong grade ! \n");
 	   } 
 	   
-	         if(grade == 'a'){
+	/*         if(grade == 'a'){
 	   	   printf("score 90 to  100. \n");
 	   	}else if (grade ==  'b'){
 	   	   printf("score 80 to  89. \n");
@@ -48,7 +48,7 @@ int main(){
 		   printf("score 0 to  59. \n");
 
 		   }
-	
+	*/
 	
 	
 	system("pause");
