@@ -20,17 +20,17 @@ int main(){
 	   	
 	   	case 'a' :
 		   printf("score 90 to  100. \n");
-		   break; 
-		   	   	case 'b' :
+		   break;
+		case 'b' :
 		   printf("score 80 to  90. \n");
 		   break; 
-		   	   	case 'c' :
+   	   	case 'c' :
 		   printf("score 70 to  80. \n");
 		   break; 
-		   	   	case 'd' :
+		case 'd' :
 		   printf("score 60 to  70. \n");
 		   break; 
-		   	   	case 'e' :
+		case 'e' :
 		   printf("score 0 to  59. \n");
 		   break; 
 	   } 
